@@ -1,0 +1,1 @@
+# Different-demand-functions-and-optimal-price-estimation-in-R
